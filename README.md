@@ -55,15 +55,15 @@ interests   : Web Apps  · Software Engineering
 
 ## 🚀 Featured Projects
 
-> 🧠 **[employee-burnout-prediction](https://github.com/Madhu-Dontukurthi/employee-burnout-prediction)** — ML project predicting employee burnout from workplace data, built in Jupyter Notebook.
+> 🚆 **[RailwayReservationSystem](https://github.com/Madhu-Dontukurthi/RailwayReservationSystem)** — A Java-based railway ticket reservation system.
 >
 > 🎯 **[careerpilot-ai](https://github.com/Madhu-Dontukurthi/careerpilot-ai)** — AI-assisted career guidance tool built with JavaScript.
->
-> 🚆 **[RailwayReservationSystem](https://github.com/Madhu-Dontukurthi/RailwayReservationSystem)** — A Java-based railway ticket reservation system.
 >
 > ⚛️ **[React.js_learning](https://github.com/Madhu-Dontukurthi/React.js_learning)** — Practice repo for learning React.js fundamentals.
 >
 > 📜 **[JavaScript_Code_Files](https://github.com/Madhu-Dontukurthi/JavaScript_Code_Files)** — Collection of JavaScript practice code and mini-scripts.
+>
+> 🧠 **[employee-burnout-prediction](https://github.com/Madhu-Dontukurthi/employee-burnout-prediction)** — ML project predicting employee burnout from workplace data, built in Jupyter Notebook.
 
 ---
 
