@@ -70,8 +70,8 @@ interests   : Web Apps  · Software Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-lipis.vercel.app/api?username=Madhu-Dontukurthi&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats-lipis.vercel.app/api/top-langs/?username=Madhu-Dontukurthi&layout=compact&theme=tokyonight" />
+ <img height="165" src="https://github-stats-extended.vercel.app/api?username=Madhu-Dontukurthi&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Madhu-Dontukurthi&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
