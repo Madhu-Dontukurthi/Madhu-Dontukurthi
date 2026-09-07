@@ -1,15 +1,3 @@
-<!--
-============================================================
- SETUP
-============================================================
-1. Create a new GitHub repo named EXACTLY: Madhu-Dontukurthi
-   (must match your username, case-sensitive)
-2. Add this file as README.md in that repo, make it public.
-   -> GitHub will show it on your profile page automatically.
-3. Fill in the few <...> placeholders left below (name, email, LinkedIn).
-4. See "Optional Setup" note at the bottom for the snake animation.
-============================================================
--->
 
 <p align="center">
   <img src="https://img.shields.io/badge/👋%20Hi%2C%20I'm-Madhu%20Dontukurthi-2ea44f?style=for-the-badge" />
@@ -83,7 +71,7 @@ interests   : Web Apps  · Software Engineering
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Madhu-Dontukurthi/Madhu-Dontukurthi/output/github-snake-dark.svg" />
+ <img src="https://raw.githubusercontent.com/Madhu-Dontukurthi/Madhu-Dontukurthi/refs/heads/output/github-snake.svg" />
 </p>
 
 ---
@@ -98,15 +86,3 @@ interests   : Web Apps  · Software Engineering
 
 <p align="center"><i>⭐ If you find my work useful, consider starring my repos!</i></p>
 
-<!--
-============================================================
- OPTIONAL SETUP: Snake contribution animation
-============================================================
-1. In the Madhu-Dontukurthi/Madhu-Dontukurthi repo:
-   Settings → Actions → General → enable "Read and write permissions"
-2. Create .github/workflows/snake.yml with the Platane/snk action
-   (ask me and I'll generate this file for you).
-3. It auto-runs daily and pushes an SVG to an "output" branch,
-   which the image above points to.
-============================================================
--->
