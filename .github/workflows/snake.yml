@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: Madhu-Dontukurthi
           outputs: |
-            dist/github-snake.svg?color_snake=%23196127&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39&color_empty=%23ebedf0
+            dist/github-snake.svg?palette=github-light
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
